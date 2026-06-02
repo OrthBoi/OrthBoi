@@ -1,1 +1,1 @@
-Phillipper 2:10-11
+#🜋 Proverbs 3:5-6 🜋
