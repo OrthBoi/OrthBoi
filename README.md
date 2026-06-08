@@ -1,5 +1,5 @@
 # Orthboi
 <br>
-### Tools i use
-<img padding-right: 10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+## Tools i use
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
