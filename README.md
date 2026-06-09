@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Orthboi&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-<br>
+
 <!--
 <details>
   <summary hidden=False>Maxim Kohanov</summary>
@@ -11,7 +11,7 @@
 -->
 
 ## Eager to learn and find new solutions to tech problems
-Once upon a time i was wandering through life and trying to find my place, something i can define myself with. Software developement gave me exactly that, a possibility to indefinitely persue the ever changing sphere of programming. I enjoy thinking up new solutions to difficulties i find while using my computer and developing a easy to use solution. I enjoy FOSS and sometimes find myself working on hardware too.
+Once upon a time i was wandering through life and trying to find my place, something i can define myself with. <br><b>Software developement gave me exactly that</b>, a possibility to indefinitely persue the ever changing sphere of programming. <br>I enjoy thinking up new solutions to difficulties i find while using my computer and developing a easy to use solution. <br>Adding to that, im also a fan of FOSS and sometimes find myself working on hardware too.
 
 ## My stack and tools i use
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -25,15 +25,21 @@ Once upon a time i was wandering through life and trying to find my place, somet
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <br>
 
-<details>
+<!--
+<details align="left">
   <summary align="left">Fun facts about me</summary>
   <ul>
     <li>I like to hike in the alps and read books</li>
-    <li>I listen to Power Metal, especially Sabaton and Powerwolf, i also like me a bit of Hardstyle from time to time</li>
+    #<li>I listen to Power Metal, especially Sabaton and Powerwolf, i also like me a bit of Hardstyle from time to time</li>
     <li>Unlike others, i dont really enjoy video games, except a bit of strategy games like Age of Empires from time to time</li>
+    <li>I tried out multiple sports, including Kickboxing, Callisthenics, Bodybuilding, Gymnastics, Canoeing and more</li>
+    <li>I dont like getting up later than 7am and sleeping in</li>
   </ul>
-  
 </details>
+-->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 
 
