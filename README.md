@@ -9,6 +9,7 @@
   My works includde:<br>I wrote multiple Python applications, that are easy to use and bring massive value to the user.<br>I setup a home server using old laptops and Raspberry Pi's and completely restored a old ThinkPad x230 by upgrading the display, internals and battery, at the same time soldering the microphone and camera away to create a DIY (Purism Librem)[https://puri.sm/about/]</p>
 </details>
 -->
+
 ## Eager to learn and find new solutions to tech problems
 Once upon a time i was wandering through life and trying to find my place, something i can define myself with. Software developement gave me exactly that, a possibility to indefinitely persue the ever changing sphere of programming. I enjoy thinking up new solutions to difficulties i find while using my computer and developing a easy to use solution. I enjoy FOSS and sometimes find myself working on hardware too.
 
@@ -25,8 +26,12 @@ Once upon a time i was wandering through life and trying to find my place, somet
 <br>
 
 <details>
-  <summary>Fun facts about me</summary>
-  <p></p>
+  <summary align="left">Fun facts about me</summary>
+  <ul>
+    <li>I like to hike in the alps and read books</li>
+    <li>I listen to Power Metal, especially Sabaton and Powerwolf, i also like me a bit of Hardstyle from time to time</li>
+    <li>Unlike others, i dont really enjoy video games, except a bit of strategy games like Age of Empires from time to time</li>
+  </ul>
   
 </details>
 
