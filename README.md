@@ -24,19 +24,21 @@ Once upon a time i was wandering through life and trying to find my place, somet
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <br>
+<br>
 
-<!--
+
 <details align="left">
-  <summary align="left">Fun facts about me</summary>
+  <summary align="left">Fun facts about me </summary>
   <ul>
     <li>I like to hike in the alps and read books</li>
-    #<li>I listen to Power Metal, especially Sabaton and Powerwolf, i also like me a bit of Hardstyle from time to time</li>
+    <li>I listen to Power Metal, especially Sabaton and Powerwolf, i also like me a bit of Hardstyle from time to time</li>
     <li>Unlike others, i dont really enjoy video games, except a bit of strategy games like Age of Empires from time to time</li>
     <li>I tried out multiple sports, including Kickboxing, Callisthenics, Bodybuilding, Gymnastics, Canoeing and more</li>
-    <li>I dont like getting up later than 7am and sleeping in</li>
+    <li>I dont like getting up later than 7am, im an early bird</li>
   </ul>
+   
 </details>
--->
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
